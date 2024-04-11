@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @mbithuka
 - 📫 How to reach me ...@github.com/mbithuka
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=mbithuka)](https://git.io/streak-stats)
